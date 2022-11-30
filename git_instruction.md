@@ -78,3 +78,9 @@ nothing to commit, working tree clean
     git checkout master
 
 
+## Очистить вывод в терминале
+
+Чтобы очистить терминал от ранее введенных команд и информации, нужно ввести команду:
+
+    clear
+
