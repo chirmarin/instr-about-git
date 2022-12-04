@@ -86,4 +86,6 @@ nothing to commit, working tree clean
 
     clear
 
-## Ветвления
+## Ветвления 
+
+Ветвления в Git нужны для ...
