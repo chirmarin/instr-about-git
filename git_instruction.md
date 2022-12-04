@@ -97,3 +97,7 @@ nothing to commit, working tree clean
     git branch <newbranch>
 
 где \<newbranch> - это имя создаваемой ветки.
+
+### Слияние веток
+
+Для того, чтобы слить ветки, нужно ...
