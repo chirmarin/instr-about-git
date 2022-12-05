@@ -133,3 +133,6 @@ nothing to commit, working tree clean
 
 	git branch -d <branch_name>
 
+Чтобы удалить ветку вместе со всеми наработками (немягко), необходимо выполнить команду:
+
+	git branch -D <branch_name>
