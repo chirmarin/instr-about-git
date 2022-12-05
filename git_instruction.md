@@ -60,6 +60,7 @@ nothing to commit, working tree clean
     git log --all --oneline
 
 Чтобы посмотреть краткую информацию обо всех коммитах в графическом представлении, выполните команду:
+
 	git log --oneline --all --graph
 
 ## Сравнение изменений
