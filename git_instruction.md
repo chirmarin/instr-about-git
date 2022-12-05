@@ -136,3 +136,6 @@ nothing to commit, working tree clean
     git branch -D <branch_name>
 
 P.S. не забывайте удалять ветки после слияния!
+
+### Основные конфликты слияния
+
