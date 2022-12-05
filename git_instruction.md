@@ -121,6 +121,10 @@ nothing to commit, working tree clean
 
 	git branch --no-merged
 
+Чтобы посмотреть те ветки, которые вы уже слили с текущей, можете выполнить команду:
+
+	git branch --merged
+
 ### Удаление веток 
 
 Описание удаления веток ...
