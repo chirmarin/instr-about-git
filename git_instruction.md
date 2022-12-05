@@ -102,6 +102,9 @@ nothing to commit, working tree clean
 
 	git branch
 
+Чтобы посмотреть последний коммит на каждой из веток, необходимо выполнить команду:
+
+	git branch -v
 
 
 ### Слияние веток
