@@ -106,6 +106,9 @@ nothing to commit, working tree clean
 
 	git branch -v
 
+ Чтобы переключиться на определенную ветку, необходимо выполнить команду:
+
+    git checkout <branch_name>
 
 ### Слияние веток
 
